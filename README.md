@@ -9,7 +9,7 @@ También se incluyen ficheros STL para poder visualizar e imprimir si se desea.
 
 Estas piezas son una curiosidad geométrica que hace que la distancia entre dos planos paralelos que toquen al objeto se mantenga constante. Si se mide la anchura del objeto aparece un valor constante pero se puede observar que no es una esfera.
 
-Todas las piezas diseñadas se pueden retocar modificando el sketch de FreeCad para crear las tuyas propias.
+Todas las piezas diseñadas se pueden retocar modificando el sketch de FreeCad para crear las tuyas propias. Todos los diseños tienen una anchura de 30 mm.
 
 Disfruta y si tienes alguna sugerencia, no dudes en hacerla.
 
